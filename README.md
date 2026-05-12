@@ -11,18 +11,17 @@
 
 ---
 
-## 🧠 Certifications in Progress
+## 🏆 Certifications
 
-![PSM I](https://img.shields.io/badge/PSM_I-In_Progress-blue)
-![PSPO I](https://img.shields.io/badge/PSPO_I-In_Progress-blue)
-![TOGAF](https://img.shields.io/badge/TOGAF-In_Progress-green)
-![Data Science](https://img.shields.io/badge/Data_Science-In_Progress-orange)
+![PSM I](https://img.shields.io/badge/PSM_I-Certified-brightgreen)
+![PSPO I](https://img.shields.io/badge/PSPO_I-Certified-brightgreen)
+![TOGAF](https://img.shields.io/badge/TOGAF-Certified-brightgreen)
+![Data Science](https://img.shields.io/badge/Data_Science-Machine_Learning-brightgreen)
 
-📚 Current roadmap:
-- 🔄 PSM I — Professional Scrum Master
-- 🔄 PSPO I — Professional Scrum Product Owner
-- 🔄 TOGAF — Enterprise Architecture
-- 🔄 Data Science with Machine Learning
+- ✅ PSM I — Professional Scrum Master
+- ✅ PSPO I — Professional Scrum Product Owner
+- ✅ TOGAF — Enterprise Architecture
+- ✅ Data Science with Machine Learning
 
 ---
 
@@ -66,12 +65,12 @@
 
 ---
 
-## 🌱 2026 Goals
+## 🌱 Always Growing
 
-- 🎯 Achieve PSM I, PSPO I & TOGAF certifications
-- 🤖 Build AI/ML practical projects
-- 🌍 Contribute to open source
-- 🏛 Strengthen software architecture expertise
+- 🤖 Building AI/ML practical projects
+- 🌍 Contributing to open source
+- 🏛 Deepening software architecture expertise
+- 📐 Designing and leading enterprise-level solutions
 
 ---
 
