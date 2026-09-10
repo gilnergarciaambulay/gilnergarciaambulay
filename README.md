@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Gilner Garcia Ambulay
+# Hi there 👋 I'm GILNER GARCIA AMBULAY
 ### Software Developer | Project Leader | Agile Practitioner | AI Enthusiast
 
 💻  Software Developer designing, building and delivering scalable software solutions.
